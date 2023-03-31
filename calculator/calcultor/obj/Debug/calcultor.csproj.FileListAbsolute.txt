@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\calcultor\calcultor\obj\Debug\calcultor.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\calcultor\calcultor\obj\Debug\calcultor.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\calcultor\calcultor\obj\Debug\calcultor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\calcultor\calcultor\bin\Debug\calcultor.exe.config
+C:\Users\user\source\repos\calcultor\calcultor\bin\Debug\calcultor.exe
+C:\Users\user\source\repos\calcultor\calcultor\bin\Debug\calcultor.pdb
+C:\Users\user\source\repos\calcultor\calcultor\obj\Debug\calcultor.exe
+C:\Users\user\source\repos\calcultor\calcultor\obj\Debug\calcultor.pdb
